@@ -27,4 +27,9 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="string_password">Password</string>
+    <string name="string_password_Re">Confirm Password</string>
+    <string name="Sign_up">Sign Up</string>
+    <string name="Username">Username</string>
+    <string name="Delete_Account">Delete Account</string>
 </resources>
